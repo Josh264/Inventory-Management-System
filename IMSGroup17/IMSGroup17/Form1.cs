@@ -16,5 +16,10 @@ namespace IMSGroup17
         {
             InitializeComponent();
         }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
