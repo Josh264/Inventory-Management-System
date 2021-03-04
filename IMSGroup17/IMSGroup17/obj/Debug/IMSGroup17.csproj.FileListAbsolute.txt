@@ -1,0 +1,10 @@
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\bin\Debug\IMSGroup17.exe.config
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\bin\Debug\IMSGroup17.exe
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\bin\Debug\IMSGroup17.pdb
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.csprojAssemblyReference.cache
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.Form1.resources
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.Properties.Resources.resources
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.csproj.GenerateResource.cache
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.exe
+D:\Documents\GitHub\Inventory-Management-System\IMSGroup17\IMSGroup17\obj\Debug\IMSGroup17.pdb
