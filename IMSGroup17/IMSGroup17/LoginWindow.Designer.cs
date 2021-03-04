@@ -1,7 +1,7 @@
 ﻿
 namespace IMSGroup17
 {
-    partial class Form1
+    partial class LoginWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -36,7 +36,7 @@ namespace IMSGroup17
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Location = new System.Drawing.Point(149, 78);
-            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(133, 65);
             this.flowLayoutPanel1.TabIndex = 0;
@@ -50,16 +50,15 @@ namespace IMSGroup17
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "Hello World!";
             // 
-            // Form1
+            // LoginWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(533, 292);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.flowLayoutPanel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "LoginWindow";
             this.ResumeLayout(false);
             this.PerformLayout();
 
